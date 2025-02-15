@@ -22,7 +22,7 @@
 
 ## 🔗 Connect with me:
 <p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/subhro-majumder-5547702a7%7c" target="blank">
+<a href="www.linkedin.com/in/subhro-majumder-5547702a7" target="blank">
   <img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/subhro-majumder-5547702a7%7c" height="30" width="40" />
 </a>
 
