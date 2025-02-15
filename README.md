@@ -27,11 +27,11 @@
 </a>
 
   
-<a href="https://fb.com/subhro majumder" target="blank">
+<a href="https://www.facebook.com/sourav.shina.9/" target="blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="subhro majumder" height="30" width="40" />
 </a>
   
-<a href="https://instagram.com/its_zeno" target="blank">
+<a href="https://www.instagram.com/subhro.majumder/?hl=en" target="blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_zeno" height="30" width="40" />
 </a>
   
